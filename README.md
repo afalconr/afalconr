@@ -20,7 +20,7 @@ Thanks for coming to my personal GitHub.
   then escalated as an IT consultant and finally as an information security officer 
   for a short period of time. 
   Right now I am still looking for opportunities and luckily 
-  I am still in the IT market, while doing IT troubleshooting. 
+  I am still in the IT market, doing IT troubleshooting. 
   The learning curve is endless and I am still working on it.
   
   I'm still working on improving my Python skills (as a hobby) 
