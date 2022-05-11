@@ -6,7 +6,7 @@
 <span>
   <span>
     <h3 align="center">"<em>
-I know memory is fragile so I pretend to place what I've learned here before it's too late</em>"
+I know memory is fragile so I pretend to place here what I've learned before it's too late</em>"
     </h3>
 </span>
 <hr>
