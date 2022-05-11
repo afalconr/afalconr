@@ -23,7 +23,8 @@ Thanks for coming to my personal GitHub.
   I am still in the IT market, doing IT troubleshooting. 
   The learning curve is endless and I am still working on it.
   
-  I'm still working on improving my Python skills (as a hobby) 
+  I'm still working on improving my Python skills (as a hobby)  but who knows.
+  Maybe I might find a Junior Python dev position sooner or later 🐍🤞.
   and pursuing a certification in ITILv4 MP and then for ISO 27001 Foundation.
 
   Yes, in my free time I do cycling, play on my computer and skateboarding from time to time.
@@ -38,7 +39,7 @@ Thanks for coming to my personal GitHub.
 - 🌱 I’m currently learning Python from scratch through Udemy (never it's too late, right?).
 - 👯 I’m looking to collaborate on projects within ITIL framework, ISO 27001, ISO 20000, TISAX, IT troubleshooting and infrastructure.
 - 🤔 I’m learning slowly Romanian and pretend to get my citizenship sooner or later.
-- 😄 Ronald or ...?: You can call me Ron, it's easier and fast.
+- 😄 Ronald or ...?: You can call me Ron.
 
   
  # 📫 How to reach me ?
